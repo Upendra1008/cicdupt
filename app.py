@@ -39,7 +39,7 @@ HTML = """
     <h1>🚀 CI/CD Demo project: Application Deployment </h1>
     <h2>Version 3</h2>
 
-    <p>Successfully deployed by Debdip Ghosh:</p>
+    <p>Successfully deployed by Upendra Kumar:</p>
 
     <p>
         GitHub → Jenkins → Docker → Docker Hub → Kubernetes
